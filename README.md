@@ -1,4 +1,4 @@
-# Reusable Button
+# Reusable Input
 This is a reusable input component made with React and React Hooks. It changes the states through props and functions. You can thus change the input type, value and placeholder universally. 
 ![Screenshot 2022-02-07 164640](https://user-images.githubusercontent.com/87696858/152812990-73866be9-6e39-483b-ae04-724963b16ab9.png)
 
