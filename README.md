@@ -1,5 +1,9 @@
 # Reusable Input
 This is a reusable input component made with React and React Hooks. It changes the states through props and functions. You can thus change the input type, value and placeholder universally. 
+
+This was done as part of practice to make reusable React components, so mind the "ugly" UI, as the focus was not on the styling (CSS), but the Javascript.
+
+## Main UI
 ![Screenshot 2022-02-07 164640](https://user-images.githubusercontent.com/87696858/152812990-73866be9-6e39-483b-ae04-724963b16ab9.png)
 
 # Getting Started with Create React App
